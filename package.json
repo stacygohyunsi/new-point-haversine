@@ -1,6 +1,6 @@
 {
   "name": "new-point-haversine",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Calculates new latitude and longitude from an old point + n distance",
   "main": "haversine.js",
   "scripts": {
