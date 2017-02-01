@@ -8,7 +8,7 @@ $ npm install new-point-haversine --save
 
 # Usage
 ```
-const haversine = require('./haversine.js');
+const haversine = require("new-point-haversine");
 ```
 
 ## haversine.getLatitudeBounds (lat, distance, units)
