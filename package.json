@@ -1,10 +1,14 @@
 {
   "name": "new-point-haversine",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "description": "Calculates new latitude and longitude from an old point + n distance",
   "main": "haversine.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stacygohyunsi/new-point-haversine"
   },
   "keywords": [
     "haversine",
