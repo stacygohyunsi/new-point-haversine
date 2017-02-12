@@ -4,7 +4,7 @@
   "description": "Calculates new latitude and longitude from an old point + n distance",
   "main": "haversine.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha ./tests/test.js"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,13 @@
     "geolocation"
   ],
   "author": "Stacy Goh <stacy.gohys@gmail.com> (http://imstacy.com)",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "eslint": "^3.15.0",
+    "mocha": "^3.2.0"
+  },
+  "dependencies": {
+    "chai": "^3.5.0"
+  }
 }
