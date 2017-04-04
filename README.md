@@ -1,3 +1,5 @@
+[![Code Climate](https://codeclimate.com/repos/58e3db3b29dfd402920001b1/badges/ea5de2915151bc9bcc82/gpa.svg)](https://codeclimate.com/repos/58e3db3b29dfd402920001b1/feed)
+
 # new-point-haversine
 Calculates new latitude and longitude from an old point + n distance
 
